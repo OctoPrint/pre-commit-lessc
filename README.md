@@ -7,6 +7,8 @@ Will turn a list of attached `.less` files into single calls of `lessc` with `so
 The relative output path for the `target` is generated from the `less` path and can be controlled through the 
 `--wrapper-output` command line option, see below.
 
+The version of the hook tracks the version of the installed `less` dependency, e.g. `4.2.0` tracks `lessc: ^4.2.0`.
+
 ## Usage
 
 ``` yaml
