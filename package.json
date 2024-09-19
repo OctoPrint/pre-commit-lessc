@@ -1,0 +1,9 @@
+{
+    "name": "lessc-wrapper",
+    "description": "pre-commit compatible wrapper for lessc",
+    "version": "4.2.0",
+    "bin": "./lessc-wrapper.js",
+    "dependencies": {
+        "less": "^4.2.0"
+    }
+}
