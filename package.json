@@ -4,6 +4,6 @@
     "version": "4.4.0",
     "bin": "./lessc-wrapper.js",
     "dependencies": {
-        "less": "^4.4.0"
+        "less": "^4.5.1"
     }
 }
